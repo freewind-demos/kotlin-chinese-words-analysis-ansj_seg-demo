@@ -1,4 +1,6 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Ansj_seq 中文分词 Demo
+=========================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Use [ansj_seq](https://github.com/NLPchina/ansj_seg) to parse Chinese sentences.
+
+Run `Hello.kt` in your IDE.
